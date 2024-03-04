@@ -1,0 +1,12 @@
+D:\VS projects\spaceShooter\spaceShooter\bin\Debug\spaceShooter.exe.config
+D:\VS projects\spaceShooter\spaceShooter\bin\Debug\spaceShooter.exe
+D:\VS projects\spaceShooter\spaceShooter\bin\Debug\spaceShooter.pdb
+D:\VS projects\spaceShooter\spaceShooter\obj\Debug\spaceShooter.csproj.AssemblyReference.cache
+D:\VS projects\spaceShooter\spaceShooter\obj\Debug\spaceShooter.Form1.resources
+D:\VS projects\spaceShooter\spaceShooter\obj\Debug\spaceShooter.Properties.Resources.resources
+D:\VS projects\spaceShooter\spaceShooter\obj\Debug\spaceShooter.csproj.GenerateResource.cache
+D:\VS projects\spaceShooter\spaceShooter\obj\Debug\spaceShooter.csproj.CoreCompileInputs.cache
+D:\VS projects\spaceShooter\spaceShooter\obj\Debug\spaceShooter.exe
+D:\VS projects\spaceShooter\spaceShooter\obj\Debug\spaceShooter.pdb
+D:\VS projects\spaceShooter\spaceShooter\obj\Debug\Interop.MediaPlayer.dll
+D:\VS projects\spaceShooter\spaceShooter\obj\Debug\spaceShooter.csproj.ResolveComReference.cache
